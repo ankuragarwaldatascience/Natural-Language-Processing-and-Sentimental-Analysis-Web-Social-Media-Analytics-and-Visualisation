@@ -1,5 +1,4 @@
 # WebSocialMedia
 Web Social Media Analytics
 
-Tech Stack , Tools and Skills  Required for Project
-
+The technology stack, tools, and skills required for the project
